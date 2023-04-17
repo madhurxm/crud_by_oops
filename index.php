@@ -57,7 +57,7 @@ if (mysqli_num_rows($records) >= 0) {
 
                     <!-- ==== All departments header start ==== -->
                     <div class="row row-cols-1 my-md-1">
-                        <div class="col bg-opacity-75 bg-primary text-center">
+                        <div class="col bg-opacity-75 bg-danger text-center">
                             <h5 class="text-white">ALL DEPARTMENTS</h5>
                         </div>
                     </div>
@@ -149,7 +149,7 @@ if (mysqli_num_rows($records) >= 0) {
 
                     <!-- ==== All departments header start ==== -->
                     <div class="row row-cols-1 my-md-1">
-                        <div class="col bg-opacity-75 bg-primary text-center">
+                        <div class="col bg-opacity-75 bg-danger text-center">
                             <h5 class="text-white">NEW DEPARTMENT</h5>
                         </div>
                     </div>
